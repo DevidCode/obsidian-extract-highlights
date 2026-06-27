@@ -1,7 +1,7 @@
 {
 	"id": "extract-highlights",
 	"name": "Extract Highlights to Note",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.4.0",
 	"description": "Creates a clean note containing only the highlighted passages (==...==) of the active note. Works on mobile, desktop and remote.",
 	"author": "DevidCode",
