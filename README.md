@@ -1,4 +1,4 @@
-# Extraire les surlignages — plugin Obsidian
+# Extract Highlights to Note
 
 Crée une note épurée contenant uniquement les passages surlignés (`==...==`) de la note active.
 Pensé pour distiller une transcription vidéo (YouTube transcript fetcher) en ne gardant que les highlights, avant déconstruction.
