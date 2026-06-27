@@ -4,6 +4,6 @@
 	"version": "1.0.0",
 	"minAppVersion": "1.4.0",
 	"description": "Creates a clean note containing only the highlighted passages (==...==) of the active note. Works on mobile, desktop and remote.",
-	"author": "David Feliciano",
+	"author": "DevidCode",
 	"isDesktopOnly": false
 }
