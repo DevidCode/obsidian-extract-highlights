@@ -1,0 +1,9 @@
+{
+	"id": "extract-highlights",
+	"name": "Extraire les surlignages",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Crée une note épurée contenant uniquement les passages surlignés (==...==) de la note active. Compatible mobile, PC et bureau distant.",
+	"author": "David Feliciano",
+	"isDesktopOnly": false
+}
